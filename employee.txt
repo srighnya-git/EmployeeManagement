@@ -1,0 +1,11 @@
+EMPLOYEE PAYROLL DETAILS
+========================
+Employee ID: 101
+Employee Name: srija
+Department: IT
+Basic Salary: 1.0E7
+Total Working Days: 2
+Present Days: 2
+Absent Days: 0
+Attendance Percentage: 100.0
+Final Salary: 1.1E7
